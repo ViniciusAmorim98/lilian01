@@ -1,0 +1,240 @@
+@media (min-width: 481px) and (max-width: 767px) {
+    /* Estilos para celulares médios */
+
+    header {
+        background-image: url(img/banner-cll1.png);
+        height: auto;
+    }
+
+    .header-txt {
+        width: 100%;
+        margin-top: 280px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 15px;
+        line-height: normal;
+    }
+
+    .p1 {
+        font-size: 12px;
+    }
+
+    header p {
+        font-size: 12px;
+    }
+
+    /*vsl---------*/
+
+    #vsl iframe {
+        height: 180px;
+        margin-bottom: 20px;
+    }
+
+    /*s03-----------*/
+    #s03 {
+        font-size: 15px;
+    }
+
+    /*s04---------*/
+
+    #s04 h2 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .flex-check p {
+        font-size: 12px;
+    }
+
+    /*s05 | Depoimentos*/
+
+    #s05 {
+        padding-top: 0;
+    }
+
+    #s05 h2 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    #s05 p {
+        font-size: 12px;
+    }
+
+    .depoimentos {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .depoimentos img {
+        width: 100%;
+    }
+
+    .dp-video {
+        width: 100%;
+    }
+
+    /*s06 | pra quem é*/
+
+    #s06 h2 {
+        font-size: 18px;
+    }
+
+    #s06 p {
+        font-size: 12px;
+    }
+
+    /*s07 | receber*/
+
+    #s07 h2 {
+        font-size: 18px;
+    }
+
+    .caixa-receber {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .card-receber {
+        width: 100%;
+    }
+
+    /*s08 | pq deve começar*/
+
+    #s08 h2 {
+        font-size: 18px;
+    }
+
+    #s08 p {
+        font-size: 12px;
+    }
+
+    /*s09 | Receba de graça*/
+
+    #s09 h2 {
+        font-size: 18px;
+    }
+
+    .card-09 {
+        flex-direction: column;
+    }
+
+    .card-09-img {
+        width: 100%;
+    }
+
+    .card-09-txt {
+        width: 100%;
+    }
+
+    .card-09-txt h3 {
+        font-size: 18px;
+    }
+
+    /*S10 | Garanta sua vaga*/
+
+    #s10 {
+        padding-top: 0px;
+    }
+
+    #s10 h2 {
+        font-size: 18px;
+    }
+
+    #s10 p {
+        font-size: 12px;
+    }
+
+    .flex-check-10 img {
+        width: 20px;
+        height: 20px;
+    }
+
+    /*S11 | valor*/
+
+    #s11 {
+        padding-top: 0;
+    }
+
+    #s11 .valor {
+        font-size: 50px;
+    }
+
+    /*s12 | Acesso limitado*/
+
+    #s12 .caixa-12 {
+        flex-direction: column;
+    }
+
+    .garantia-img {
+        width: 100%;
+        text-align: center;
+    }
+
+    .garantia-txt {
+        width: 100%;
+        text-align: center;
+    }
+
+    .garantia-txt h2 {
+        font-size: 18px;
+    }
+
+    .garantia-txt p {
+        font-size: 15px;
+    }
+
+
+    /*S13 | Barato?*/
+
+    #s13 {
+        text-align: center;
+    }
+
+    #s13 h2 {
+        font-size: 18px;
+    }
+
+    #s13 p {
+        font-size: 12px;
+        text-align: justify;
+    }
+
+    /*S14 | bio*/
+
+    #s14 .flex-bio {
+        flex-direction: column;
+    }
+
+    .bio-img {
+        width: 100%;
+    }
+
+    .bio-img img {
+        width: 100%;
+    }
+
+    .bio-txt {
+        width: 100%;
+    }
+
+    .bio-txt h2 {
+        font-size: 20px;
+    }
+
+    .bio-txt p {
+        font-size: 12px;
+    }
+
+    #s14 a {
+        width: 100%;
+        text-align: center;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+}
